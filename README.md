@@ -1,6 +1,6 @@
 # Rafael Freire de Almeida
 
-#### Bem vindo ao meu git-hub pessoal, tenho 31 anos, estou tentando me tornar um dev de alto nivel, gosto de estudar e fico muito feliz quando tenho insight da "magic" da programação (risos). Quando nao estou estudando estou puxando peso, me ajuda a diminuir a ansiedade e auxilia no foco.
+#### Bem vindo ao meu git-hub pessoal;
 
 
 ## Conecte-se comigo
